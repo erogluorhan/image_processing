@@ -1,0 +1,16 @@
+
+enhancement/histogram_equalization/Output/Equalization/img_gray.jpg
+enhancement/histogram_equalization/Output/Equalization/img_gray_eq.jpg
+enhancement/histogram_equalization/Output/Equalization/img_gray_hist.jpg
+enhancement/histogram_equalization/Output/Equalization/img_gray_hist_eq.jpg
+enhancement/histogram_equalization/Output/Equalization/img_rgb.jpg
+enhancement/histogram_equalization/Output/Equalization/RGB/imRGB_eq.jpg
+enhancement/histogram_equalization/Output/Equalization/RGB/imR_hist_eq.jpg
+enhancement/histogram_equalization/Output/Equalization/RGB/img_R_eq.jpg
+enhancement/histogram_equalization/Output/Equalization/RGB/img_R.jpg
+enhancement/histogram_equalization/Output/Equalization/RGB/imG_hist_eq.jpg
+enhancement/histogram_equalization/Output/Equalization/RGB/img_G_eq.jpg
+enhancement/histogram_equalization/Output/Equalization/RGB/img_G.jpg
+enhancement/histogram_equalization/Output/Equalization/RGB/img_B_eq.jpg
+enhancement/histogram_equalization/Output/Equalization/RGB/img_B.jpg
+enhancement/histogram_equalization/Output/Equalization/RGB/imB_hist_eq.jpg
